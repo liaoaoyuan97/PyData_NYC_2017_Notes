@@ -3,13 +3,13 @@ Table of Contents
 -----------------
 
 
-   * Hands-on Data Analysis Librarys
+   * Hands-on Data Analysis Libraries
        * Tutorial: Make Data Tidy by Pandas
           * [Pandas: .head() to .tail() (Novice)](https://github.com/TomAugspurger/pydata-nyc-ph2t)
           * [Idiomatic Pandas(Intermediate)](https://github.com/tdpetrou/Learn-Pandas)
        * Tutorial: Build Interactive Data Visualization
           * [Develop Interactive Matplotlib figures(Intermediate)](https://github.com/tacaswell/interactive_mpl_tutorial)
-          * Alternative Librarys: [Plotly](https://github.com/plotly/plotly.py), [Dash](https://github.com/plotly/dash), [Bokeh](https://github.com/bokeh/bokeh)
+          * Alternative Libraries: [Plotly](https://github.com/plotly/plotly.py), [Dash](https://github.com/plotly/dash), [Bokeh](https://github.com/bokeh/bokeh)
    * Machine Learning Algorithms
       * [Random Forests: Best Practices for the Business World](https://revenueanalytics.com/random-forests-can-bring-rental-car-pricing-woods/)
       * Deep Learning
